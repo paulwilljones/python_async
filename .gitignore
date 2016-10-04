@@ -1,1 +1,4 @@
 ./test_normal.jpg
+./test_async.jpeg
+*.html
+*.jpeg

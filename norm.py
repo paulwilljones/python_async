@@ -12,6 +12,6 @@ if __name__ == "__main__":
 
         print(resp.headers["Content-Length"])
 
-        with open("test_normal.jpg", "wb") as f:
+        with open("test_normal.jpeg", "wb") as f:
 
             f.write(resp.content)
